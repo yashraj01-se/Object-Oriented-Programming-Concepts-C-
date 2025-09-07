@@ -1,0 +1,40 @@
+# ----------------------
+# Compiled files
+# ----------------------
+*.exe
+*.out
+*.o
+*.obj
+*.gch
+
+# ----------------------
+# IDE / Editor folders
+# ----------------------
+# VS Code
+.vscode/
+
+# Code::Blocks
+*.cbp
+*.layout
+*.depend
+
+# CLion
+cmake-build-*/
+.idea/
+
+# ----------------------
+# Backup / Temporary files
+# ----------------------
+*.log
+*.tmp
+*.swp
+*.bak
+
+# ----------------------
+# OS specific files
+# ----------------------
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
